@@ -1,0 +1,17 @@
+#login_container{
+    margin-top: 170px;
+    margin-left: 545px;
+    align-items: center;
+}
+
+#login_button{
+    width: 175px;
+}
+
+#header{
+    margin-bottom: 20px;
+}
+
+#error_msg{
+    width: 175px;
+}
